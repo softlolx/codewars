@@ -10,5 +10,5 @@ function noSpace(x) {
   return result;
 }
 
-let showResult = noSpace("asd a ddd dsdsds  dsdsds");
+let showResult = noSpace("asd a ddd dsds!ds  dsdsds");
 console.log(showResult);
