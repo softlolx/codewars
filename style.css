@@ -1,0 +1,21 @@
+.page {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(106, 127, 178);
+}
+
+.content {
+  border: 2px solid blueviolet;
+  border-radius: 7px;
+  width: 400px;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 500;
+}
